@@ -173,8 +173,8 @@ while left <= right:
 
 * [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)（Facebook、字节跳动、亚* 马逊在半年内面试常考）
 * [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)（亚马逊、微软、Facebook 在半年内面试中考* 过）
-* [寻找旋转排序数组中的最小值]()（亚马逊、微软、字节跳动在半年内面试中考过）
-* [二分查找无序点](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)，寻找一个半有序数组 [4, 5, 6, 7, 0, 1, 2] 中间无序的地方
+* [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)（亚马逊、微软、字节跳动在半年内面试中考过）
+* [二分查找无序点](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) 寻找一个半有序数组 [4, 5, 6, 7, 0, 1, 2] 中间无序的地方
 
 
 ## 补充资料
