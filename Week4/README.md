@@ -166,7 +166,7 @@ while left <= right:
 * [x 的平方根](https://leetcode-cn.com/problems/sqrtx/)（字节跳动、微软、亚马逊在半年内面试中考过）
 * [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)（亚马逊在半年内面试中考过）
 
-> 扩展阅读：[Fast InvSqrt() 扩展阅读](https://www.beyond3d.com/content/articles/8/)
+> 扩展阅读：[Fast InvSqrt()](https://www.beyond3d.com/content/articles/8/)
 
 
 ### 作业题目
