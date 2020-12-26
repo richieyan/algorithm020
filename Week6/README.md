@@ -71,11 +71,18 @@ def divide_conquer(problem, param1, param2):
 * "Simplifying a complicated problem by breaking it down into simpler sub-problems" (in a recursive manner)
 * Divide & Conquer + Optimal substructure 分治+最优子结构
 
-### 关键点
+### 关键理解
 
 * 动态规划 和 递归或分治*没有根本上的区别*（关键看有无最优子结构）
 * **共性：找到重复的子问题**
 * 差异性：最优子结构、中途可以*淘汰*次优解
+
+### 解题思路
+
+* 最优子结构
+* 状态数组
+* 状态转移方程(递推公式)
+
 
 ### 实战例题
 
