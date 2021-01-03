@@ -142,9 +142,9 @@ Bfs 的剪枝通常就是判重，因为一般 Bfs 寻找的是步数最少，�
 
 ```python
 def AstarSearch(graph, start, end):
-	pq = collections.priority_queue() # 优先级 —> 估价函数
-	pq.append([start]) 
-	visited.add(start)	
+  pq = collections.priority_queue() # 优先级 —> 估价函数
+  pq.append([start]) 
+  visited.add(start)	
   while pq: 		
     node = pq.pop() # can we add more intelligence here ?		
     visited.add(node)
